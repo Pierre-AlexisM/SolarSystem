@@ -1,3 +1,15 @@
 body {
-    margin: 0
+    margin: 0;
+    overflow: hidden;
 }
+
+.description {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 10px;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    color: #333;
+  }
